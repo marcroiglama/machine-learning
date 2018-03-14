@@ -1,8 +1,7 @@
 Linear Regression Model
 
 One of the simplest algorithms. It is able to fits linially distributed data, without big changes.
-I use Ecommerce data, it is already cleaned and correctly labeled. The idea is that the online shop wants to know insights on the 
-user experiencie on web and app, and it what kind of customers spend more money on the platform.
+I use Ecommerce data, it is already cleaned and correctly labeled. The idea is that the online shop wants to know insights about the user experiencie on web and app, and what kind of customers spend more money on the platform.
 
 A linear model is succesfully trained to predict new values. The data is very stable, so it's easy to see how the antiquity of the client
-is corralated with the money he spends on the shop. While the app has good beneficies, the time on the web isn't that succesfull.
+is corralated with the money he spends on the shop. While the app has good beneficies, the time on the web isn't that succesful.

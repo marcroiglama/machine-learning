@@ -1,1 +1,5 @@
-Natural Lenguage Processing
+Natural Language Processing
+
+This project will show two different Machine Learning projects for NLP. 
+- Spam classifier with Multinomial Naive Bayes Classifier.
+- Review classifier with Multinomial Naive Bayes Classifer and Logistic Regression.
